@@ -1,5 +1,5 @@
 # Hotel Revenue Analysis
-This project represents the application of my academic training in the MSBA program to a real world business scenario. Throughout my coursework, I have developed a strong foundation in data cleaning, query writing, and data driven decision making.
+This project represents the application of my academic training in the MSBA program to a real world business scenario. Throughout my coursework I have developed a strong foundation in data cleaning, query writing, and data driven decision making.
 
 In this project I apply my skills to a Hotel Revenue dataset, leveraging analytical tools to examine performance and identify trends.
 
@@ -11,7 +11,7 @@ In this project I apply my skills to a Hotel Revenue dataset, leveraging analyti
 
 ## Project Goal
 Visualize hotel booking data from 2018-2029 for stakeholders to see growth and trends in data. 
-I used a YouTube tutorial dataset from [Absent Data](https://www.youtube.com/@absentdata) for this project. The dataset used for this project can be found [here.](hotel.csv.xlsx) 
+I used a dataset from Youtuber [Absent Data](https://www.youtube.com/@absentdata) for this project. The dataset used for this project can be found [here.](hotel.csv.xlsx) 
 
 ## PowerBI Dashboard
 
